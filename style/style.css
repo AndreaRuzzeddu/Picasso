@@ -1,0 +1,94 @@
+header{
+	background-color: snow;
+	
+}
+
+.backgroundimg {
+	background-image: url(../img/homepage.jpg);
+	background-position: center;
+	back-repeat: no-repeat;
+	height:100%;
+}
+
+.textbackgroundimg {
+	text-align: center;
+}
+p{
+	background-image: img("homepage.jpg");
+}
+
+}
+
+nav{
+	color: white;
+	background-color: dimgray;
+	list-style-type: none;
+
+	margin: 0;
+	padding: 0;	
+	display: inline;
+	float: left;
+}
+
+.progetto1{
+	background-color: snow;
+}
+.progetto2{
+	padding: 45px 40px;
+}
+
+.catalogo{
+	background-color: darksalmon;
+}
+
+#h2{
+	color: white;
+}
+
+.buttontitle{
+	border: none;
+	text-aling: center;
+	background-color: snow;
+	display:inline-block;
+	padding: 20px 30px;
+}
+
+a:hover {
+	text-decoration: none;
+}
+.button1{
+	background-color: snow;
+	padding: 10px;
+}
+
+.button2{
+	background-color: snow;
+	padding: 10px;
+}
+
+.button3{
+	background-color: snow;
+	padding: 10px;
+}
+
+.button4{
+	background-color: snow;
+	padding: 10px;
+}
+
+.list2{
+	padding: -20px;
+	background-color:snow;
+	
+}
+
+.prefooter{
+	color: snow;
+	text-align:center;
+}
+
+.footer{
+	background-color: gray;
+	color: white;
+	text-align: center;
+}
